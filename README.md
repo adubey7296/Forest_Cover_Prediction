@@ -13,8 +13,8 @@ There are 13 features in the dataset, out of which Soil_type (feature) has 40 di
 Download data from here : https://www.kaggle.com/c/forest-cover-type-prediction/data
 The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. You are asked to predict an integer classification for the forest cover type. The seven types are:
 
-1 - Spruce/Fir
-2 - Lodgepole Pine
+*1 - Spruce/Fir
+*2 - Lodgepole Pine
 3 - Ponderosa Pine
 4 - Cottonwood/Willow
 5 - Aspen
